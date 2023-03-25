@@ -1,4 +1,1 @@
-master 分支 first
-B分支
-master分支第二次提交
-B分支第二次提交
+hello word
